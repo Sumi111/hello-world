@@ -1,4 +1,4 @@
 # hello-world
-Getting started eit git and github
+Getting started with git and github
 planning to learn more
 
